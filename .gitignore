@@ -1,0 +1,6 @@
+# Secrets / env
+.env
+
+# OS / tooling
+.DS_Store
+Thumbs.db
